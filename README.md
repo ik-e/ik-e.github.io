@@ -19,7 +19,7 @@ gem "jekyll-theme-leaf"
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: jekyll-theme-leaf
+remote_theme: jekyll-theme-leaf
 ```
 
 And then execute:
