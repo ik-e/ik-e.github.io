@@ -1,10 +1,17 @@
 ---
-title: About
 layout: page
+title: "소개"
+permalink: /about/
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+## 기술을 활용하는 목적
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
+문제를 발견하면 먼저 무엇이 불편하고 어떤 결과가 필요한지 확인하려 합니다. 그다음 관련 기술과 도구를 조사하고, 가능한 범위에서 직접 구현하고 검증합니다.
 
-(Change this by editing `about.md` file)
+AI 오케스트레이션 교육 과정에서 네 차례의 팀 프로젝트에 팀장으로 참여했습니다. 역할과 작업을 나누는 것만큼 **팀원들이 전체 맥락을 이해하고 검증 가능한 결과를 공유하는 일**이 중요하다는 점을 배웠습니다.
+
+개인적으로는 AI의 능력을 실제 작업에 연결하기 위한 도구 발견, 컨텍스트·기억·작업 상태 관리 문제를 탐구하고 있습니다. 구현 결과뿐 아니라 예상과 다른 결과, 미완성 영역, 다음 검증 과제를 함께 기록합니다.
+
+이제는 기술적 가능성을 검토하는 단계에서 한 걸음 더 나아가, 사용자의 문제를 먼저 정의하고 실제 효과를 확인하는 방법을 배우고 싶습니다.
+
+[프로젝트 및 근거 보기]({{ '/portfolio/' | relative_url }}) · [GitHub](https://github.com/ik-e) · [Velog](https://velog.io/@ik_e)
